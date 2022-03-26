@@ -1,0 +1,46 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:ingots/gold"
+  },
+  "transitionalItem": {
+    "item": "create:golden_sheet"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        },
+        {
+          "tag": "ae2:knife"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:printed_logic_processor"
+    }
+  ],
+  "loops": 1
+}

@@ -1,0 +1,14 @@
+{  
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_slimesteel",
+      "amount": 810
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:slimesteel_block"
+    }
+  ]
+}

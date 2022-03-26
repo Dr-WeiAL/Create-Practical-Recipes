@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "ae2:smart_cable"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:fluix_smart_cable"
+    }
+  ]
+}

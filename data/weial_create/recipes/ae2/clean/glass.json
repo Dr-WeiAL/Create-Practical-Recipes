@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "ae2:glass_cable"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:fluix_glass_cable"
+    }
+  ]
+}

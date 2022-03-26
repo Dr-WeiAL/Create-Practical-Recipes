@@ -1,0 +1,17 @@
+{
+  "keepHeldItem": true,
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "ae2:silicon"
+    },
+    {
+      "item": "ae2:silicon_press"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:printed_silicon"
+    }
+  ]
+}

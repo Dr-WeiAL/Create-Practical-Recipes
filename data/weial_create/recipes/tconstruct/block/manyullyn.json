@@ -1,0 +1,14 @@
+{  
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_manyullyn",
+      "amount": 810
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:manyullyn_block"
+    }
+  ]
+}

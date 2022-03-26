@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "watersource:soul_water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "watersource:fluid_bottle",
+      "nbt": { "Fluid": { "Amount": 250, "FluidName": "watersource:soul_water" } }
+    }
+  ]
+}

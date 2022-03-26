@@ -1,0 +1,14 @@
+{  
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_pig_iron",
+      "amount": 810
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:pig_iron_block"
+    }
+  ]
+}
