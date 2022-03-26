@@ -1,4 +1,4 @@
-# WeiAL-s-Create-Practical-Recipes
+# Create Practical Recipes
 
 给一些mod添加了机械动力处理配方
 
