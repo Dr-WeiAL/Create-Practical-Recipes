@@ -10,5 +10,11 @@
     {
       "item": "minecraft:quartz_block"
     }
+  ],
+  "conditions": [
+    {
+      "modid": "tconstruct",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

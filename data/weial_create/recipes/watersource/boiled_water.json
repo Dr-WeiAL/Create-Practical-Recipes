@@ -13,5 +13,11 @@
     }
   ],
   "heatRequirement": "heated",
-  "processingTime": 50
+  "processingTime": 50,
+  "conditions": [
+    {
+      "modid": "watersource",
+      "type": "forge:mod_loaded"
+    }
+  ]
 }

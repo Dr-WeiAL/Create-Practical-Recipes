@@ -14,5 +14,11 @@
       "fluid": "watersource:coconut_juice",
       "amount": 500
     }
+  ],
+  "conditions": [
+    {
+      "modid": "watersource",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

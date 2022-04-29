@@ -10,5 +10,11 @@
     {
       "item": "create:zinc_block"
     }
+  ],
+  "conditions": [
+    {
+      "modid": "tconstruct",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

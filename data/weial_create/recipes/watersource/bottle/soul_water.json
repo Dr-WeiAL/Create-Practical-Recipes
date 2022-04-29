@@ -14,5 +14,11 @@
       "item": "watersource:fluid_bottle",
       "nbt": { "Fluid": { "Amount": 250, "FluidName": "watersource:soul_water" } }
     }
+  ],
+  "conditions": [
+    {
+      "modid": "watersource",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

@@ -10,5 +10,11 @@
     {
       "item": "minecraft:terracotta"
     }
+  ],
+  "conditions": [
+    {
+      "modid": "tconstruct",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

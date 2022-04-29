@@ -13,5 +13,11 @@
     {
       "item": "ae2:printed_logic_processor"
     }
+  ],
+  "conditions": [
+    {
+      "modid": "ae2",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

@@ -10,5 +10,11 @@
     {
       "item": "tconstruct:scorched_stone"
     }
+  ],
+  "conditions": [
+    {
+      "modid": "tconstruct",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

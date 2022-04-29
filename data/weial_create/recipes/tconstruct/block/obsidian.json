@@ -10,5 +10,11 @@
     {
       "item": "minecraft:obsidian"
     }
+  ],
+  "conditions": [
+    {
+      "modid": "tconstruct",
+      "type": "forge:mod_loaded"
+    }
   ]
 }

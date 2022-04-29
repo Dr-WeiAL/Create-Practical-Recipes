@@ -14,5 +14,11 @@
       "item": "watersource:fluid_bottle",
       "nbt": { "Fluid": { "Amount": 250, "FluidName": "watersource:coconut_juice" } }
     }
+  ],
+  "conditions": [
+    {
+      "modid": "watersource",
+      "type": "forge:mod_loaded"
+    }
   ]
 }
