@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    }
+  ],
   "keepHeldItem": true,
   "type": "create:deploying",
   "ingredients": [

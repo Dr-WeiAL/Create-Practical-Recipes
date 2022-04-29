@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    }
+  ],
   "type": "create:sequenced_assembly",
   "ingredient": {
     "tag": "forge:silicon"
