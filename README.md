@@ -9,8 +9,8 @@
 - 水源
 
 # 使用方法
-
-- 点击右上角的绿色Code按键
-- 点击Download Zip
-- 把下载到的文件放入数据包文件夹
+- 安装 OpenLoader 模组
+- 点击右上角的绿色 Code 按键
+- 点击 Download Zip 按钮
+- 把下载到的文件解压到"<minecraft位置>/openloader/"(未开启版本隔离)或"<minecraft位置>/versions/<版本名称>/openloader/"(开启版本隔离)
 - 成功！
