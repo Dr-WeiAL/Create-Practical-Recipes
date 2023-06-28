@@ -1,10 +1,10 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "ae2:fluix_crystal_seed"
+    "item": "appliedenergistics2:fluix_crystal_seed"
   },
   "transitionalItem": {
-    "item": "ae2:fluix_crystal_seed",
+    "item": "appliedenergistics2:fluix_crystal_seed",
     "nbt": { "p": 11451.4 }
   },
   "sequence": [
@@ -13,7 +13,7 @@
       "type": "create:filling",
       "ingredients": [
         {
-          "item": "ae2:fluix_crystal_seed"
+          "item": "appliedenergistics2:fluix_crystal_seed"
         },
         {
           "fluid": "minecraft:water",
@@ -23,20 +23,20 @@
       ],
       "results": [
         {
-          "item": "ae2:fluix_crystal_seed"
+          "item": "appliedenergistics2:fluix_crystal_seed"
         }
       ]
     }
   ],
   "results": [
     {
-      "item": "ae2:fluix_crystal"
+      "item": "appliedenergistics2:fluix_crystal"
     }
   ],
   "loops": 12,
   "conditions": [
     {
-      "modid": "ae2",
+      "modid": "appliedenergistics2",
       "type": "forge:mod_loaded"
     }
   ]
