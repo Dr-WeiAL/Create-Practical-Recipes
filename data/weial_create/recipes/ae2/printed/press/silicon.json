@@ -3,20 +3,20 @@
   "type": "create:deploying",
   "ingredients": [
     {
-      "item": "ae2:silicon"
+      "item": "appliedenergistics2:silicon"
     },
     {
-      "item": "ae2:silicon_press"
+      "item": "appliedenergistics2:silicon_press"
     }
   ],
   "results": [
     {
-      "item": "ae2:printed_silicon"
+      "item": "appliedenergistics2:printed_silicon"
     }
   ],
   "conditions": [
     {
-      "modid": "ae2",
+      "modid": "appliedenergistics2",
       "type": "forge:mod_loaded"
     }
   ]

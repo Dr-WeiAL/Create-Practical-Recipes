@@ -1,25 +1,25 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "tag": "ae2:all_nether_quartz"
+      "tag": "appliedenergistics2:all_nether_quartz"
     },
     "transitionalItem": {
-      "item": "ae2:logic_processor"
+      "item": "appliedenergistics2:logic_processor"
     },
     "sequence": [
       {
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           },
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           }
         ],
         "results": [
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           }
         ]
       },
@@ -27,7 +27,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           },
           {
             "tag": "forge:dusts/fluix"
@@ -35,7 +35,7 @@
         ],
         "results": [
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           }
         ]
       },
@@ -43,29 +43,29 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           },
           {
-            "tag": "ae2:knife"
+            "tag": "appliedenergistics2:knife"
           }
         ],
         "results": [
           {
-            "item": "ae2:logic_processor"
+            "item": "appliedenergistics2:logic_processor"
           }
         ]
       }
     ],
     "results": [
       {
-        "item": "ae2:annihilation_core",
+        "item": "appliedenergistics2:annihilation_core",
         "count": 3
       }
     ],
     "loops": 1,
   "conditions": [
     {
-      "modid": "ae2",
+      "modid": "appliedenergistics2",
       "type": "forge:mod_loaded"
     }
   ]

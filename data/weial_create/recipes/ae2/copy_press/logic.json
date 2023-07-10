@@ -27,7 +27,7 @@
           "item": "create:iron_sheet"
         },
         {
-          "item": "ae2:logic_processor_press"
+          "item": "appliedenergistics2:logic_processor_press"
         }
       ],
       "results": [
@@ -52,14 +52,14 @@
   ],
   "results": [
     {
-      "item": "ae2:logic_processor_press",
+      "item": "appliedenergistics2:logic_processor_press",
       "count": 2
     }
   ],
   "loops": 1,
   "conditions": [
     {
-      "modid": "ae2",
+      "modid": "appliedenergistics2",
       "type": "forge:mod_loaded"
     }
   ]
